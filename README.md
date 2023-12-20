@@ -1,10 +1,11 @@
 ### Hello World! 👋
 
 ## Me chamo Jessica, mas podem me chamar de Jess!
-### Atuo há 3 anos na área de TI.
+### Atuo há 6 anos na área de TI.
 
 
-- 🔭 Atualmente estou trabalhando como Consultora Técnica em ServiceNow, voltado para ITSM , mas tenho muito interesse pela linguagem Python e a área de ciência de dados. 
+- 🔭 Atualmente estou trabalhando como Consultora Técnica em ServiceNow, voltado para ITSM , utilizo também a linguagem JavaScript tanto para front quanto para back-end. Gosto de estudar Node e tenho interesse em desenvolvimento no back-end. Além de ter um forte direcionamento para a área de Produtos, pretendo trabalhar futuramente como Product Manager.
+-  
 - ⚡ Certificação System Administrator ServiceNow
 
 - ⚡ Meu LinkedIn: https://www.linkedin.com/in/jessicalaneramos/
